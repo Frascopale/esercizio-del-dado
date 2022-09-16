@@ -1,0 +1,1 @@
+prompt("Di quante facce è il dado?");
