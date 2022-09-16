@@ -5,7 +5,6 @@ document.write("Hai scelto di usare il dado con " + numfacce + " facce" + br);
 
 let num = Math.round ( Math.random() * numfacce);
 
-
 while (num ==0 ){
     num = Math.round ( Math.random() * numfacce);
 }
